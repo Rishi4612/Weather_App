@@ -5,6 +5,4 @@ The key points highlighted:
 Purpose of the app - search weather by city.
 Tech stack - HTML, CSS, JavaScript.
 Features - city, temperature, weather icon, humidity, wind speed.
-API used - OpenWeatherMap.
-Input validation and error handling.
 Accessibility - tab and enter key handling.
